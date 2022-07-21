@@ -10,6 +10,14 @@ package fr.m2i.unittest;
  * @author RAISA
  */
 public class UnitTest {
+    //Calcul de la somme
+     
+    private int number;
+    private String text;
+    
+    int [] notes;
+    
+    
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
